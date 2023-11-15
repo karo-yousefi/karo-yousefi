@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔋 A programmer tries to learn coding stuff.<br>
+🔋 Still trying to learn... <br>
 📌 I’m currently learning front-end web dev.
 
 
