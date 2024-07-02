@@ -17,5 +17,4 @@
 
 # 💎 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karo-yousefi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[comment]: <> (![](https://github-readme-streak-stats.herokuapp.com/?user=karo-yousefi&theme=radical&hide_border=false)<br/>)
 ---
