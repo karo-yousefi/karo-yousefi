@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔋 Still trying to learn... <br>
-📌 I’m currently learning front-end web dev.
+🔋 Learning... <br>
 
 
 ## 🌐 Socials:
